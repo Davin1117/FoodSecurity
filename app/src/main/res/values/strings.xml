@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheFarmersApp</string>
+    <string name="upload_text">Tekan field gambar dibawah untuk mengunggah gambar</string>
+    <string name="analisis">Analisis</string>
+</resources>
